@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Muhabat 👋</h1>
 
 <p align="center">
-  <b>Full-stack engineer</b> · React · Next.js · Node.js · TypeScript<br/>
+  <b>Full-Stack Engineer</b> · React · Next.js · Node.js · TypeScript<br/>
   I build SaaS products end to end, from the database to the last pixel.
 </p>
 
@@ -22,7 +22,7 @@
 Next.js 16 · Supabase/Postgres with 39 row-level-security policies · Paddle billing enforced in SQL · hourly jobs · 9 integrations · REST API.
 → [Live preview, no signup](https://onefeeokr.netlify.app/preview)
 
-**[Stackly](https://portfolio-nextjs-niaziiii.vercel.app/projects/stackly)** at Adabra (Dubai, remote), 2024–2026: an all-in-one agency platform.
+**[Stackly](https://portfolio-nextjs-niaziiii.vercel.app/projects/stackly)** at Adabra (Dubai, remote): an all-in-one agency platform.
 I built the GrapesJS page and funnel builder, Magnus Intelligence AI generation (full pages, 3D layouts, sections), CRM reporting and client workspaces.
 
 **[This portfolio](https://github.com/niaziiii/portfolio-nextjs)**: Next.js 16, React 19, Tailwind CSS v4, static case studies, light and dark themes.
