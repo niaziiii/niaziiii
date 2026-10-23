@@ -22,7 +22,7 @@
 Next.js 16 · Supabase/Postgres with 39 row-level-security policies · Paddle billing enforced in SQL · hourly jobs · 9 integrations · REST API.
 → [Live preview, no signup](https://onefeeokr.netlify.app/preview)
 
-**[Stackly](https://portfolio-nextjs-niaziiii.vercel.app/projects/stackly)** at Infiniti Business Solutions (US, remote): an all-in-one agency platform.
+**[Stackly](https://portfolio-nextjs-niaziiii.vercel.app/projects/stackly)** at Adabra (Dubai, remote): an all-in-one agency platform.
 I own the GrapesJS page and funnel builder, Magnus Intelligence AI generation (full pages, 3D layouts, sections), CRM reporting and client workspaces.
 
 **[This portfolio](https://github.com/niaziiii/portfolio-nextjs)**: Next.js 16, React 19, Tailwind CSS v4, static case studies, light and dark themes.
